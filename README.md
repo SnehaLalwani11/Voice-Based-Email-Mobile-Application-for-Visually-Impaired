@@ -1,4 +1,4 @@
-# Voice-Based-Email-for-Visually-Impaired-HMI-
+# Voice-Based-Email-for-Visually-Impaired
 An email application designed for visually impaired people to perform their tasks easily and effectively
 
 This project was completed by Priyanka Awatramani (5), Sneha Lalwani (39) and Sartha Tambe (66) as a part of Human Machine Interaction Project under the guidance of Dr. Mrs. Gresha Bhatia and Mrs. Ashwini Gaikwad
